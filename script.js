@@ -1,3 +1,4 @@
+        //comentario esquecido 
 // Mapeia os elementos do HTML que vamos utilizar
 const btnVerificar = document.getElementById('btnVerificar');
 const txtNome = document.getElementById('nome');
